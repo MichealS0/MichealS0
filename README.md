@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=micheals0&label=Profile%20views&color=0e75b6&style=flat" alt="micheals0" /> </p>
 
-- 🔭 I’m currently working on [Ping Pong Game](github.com/MichealS0/pingpong)
+- 🔭 I’m currently working on a Security Blog
 
 - 🌱 I’m currently learning **React, Penetration Testing, AI & ML.**
 
